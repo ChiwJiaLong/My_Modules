@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="textViewC346">C346 Android Programming</string>
+    <string name="textViewC331">C331 Forensic</string>
+    <string name="textViewC203">C203 Web AppIn Development in php</string>
+    <string name="textViewC228">C228 Operating Systems Security</string>
+    <string name="textViewC328">C328 Intelligents Networks</string>
+    <string name="textViewC349">C349 iPad Programming</string>
+</resources>
